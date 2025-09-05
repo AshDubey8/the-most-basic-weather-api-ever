@@ -1,10 +1,10 @@
 # Weather API
 
-A simple weather API built with TypeScript, Node.js, and Express that fetches real-time weather data from WeatherAPI.
+A weather API built with TypeScript, Node.js, and Express that fetches weather data from WeatherAPI.
 
 ## Features
 
-- Clean web interface for weather searches
+- Web interface for weather searches
 - Current weather data for any city
 - Multi-day weather forecast
 - Temperature in both Celsius and Fahrenheit
@@ -44,7 +44,7 @@ cp .env.example .env
 
 4. Add your WeatherAPI key to `.env`
 ```
-WEATHER_API_KEY=your_actual_api_key_here
+WEATHER_API_KEY=your_api_key_here
 ```
 
 ## Usage
